@@ -1,6 +1,8 @@
 # Tetris
 This is a copy of the classic game Tetris coded by Claude AI. See README.md for more detailed install instructions.
 
+#### Go to [changeLog.md](changeLog.md) for a detailed list of what was added
+
 ## Install Instructions
 
 In order to install the game you will want to find the .zip file for the latest version of the game and download it.
