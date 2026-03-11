@@ -7,7 +7,7 @@ In order to install the game you will want to find the .zip file for the latest 
 After you download do the following
 1. Unzip the file
 2. Make sure Python 3.13 or higher is intalled
-3. Make sure PyGame is installed, you can get it through VS Code using [these instructions](#Intall PyGame)
+3. Make sure PyGame is installed, you can get it through VS Code using [these instructions](#Install-PyGame)
 4. Run the tetris.py to launch the game
 
 ## How to Play
